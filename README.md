@@ -24,7 +24,6 @@ I am a **2024 graduate** with strong skills in **React.js**, **React Native**, a
 ### **Backend Development**
 - **Languages**: JavaScript, TypeScript
 - **Frameworks**: Node.js, Express.js
-- **APIs**: RESTful APIs
 
 ### **Databases**
 - MongoDB, PostgreSQL, Firebase
