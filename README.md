@@ -53,7 +53,7 @@ At **SuperChat**, I focus on building intuitive and performant frontend solution
 ## 🌍 Let's Connect!
 
 - **GitHub**: [narra-abhinay-sriram](https://github.com/narra-abhinay-sriram)
-- **LinkedIn**: [Abhinay Sriram Narra](http://www.linkedin.com/in/abhinay122)
+- **LinkedIn**: [Abhinay Sriram Narra](https://www.linkedin.com/in/abhinay122/)
 - **Email**: [abhinay.narra@gmail.com](mailto:abhinay.narra@gmail.com)
 
 ---
