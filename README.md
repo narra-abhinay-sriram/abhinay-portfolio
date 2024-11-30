@@ -18,7 +18,7 @@ I am a **2024 graduate** with strong skills in **React.js**, **React Native**, a
 
 ### **Frontend Development**
 - **Frameworks**: React.js, Next.js, React Native
-- **Styling**: Tailwind CSS, Bootstrap, CSS3
+- **Styling**: Tailwind CSS, CSS3
 - **State Management**: Redux, Context API
 
 ### **Backend Development**
