@@ -34,13 +34,11 @@ I am a **2024 graduate** with strong skills in **React.js**, **React Native**, a
 ## 💼 Professional Experience
 
 ### **Frontend Developer** | **SuperChat**  
-*Jan 2024 – Present*  
+ 
 At **SuperChat**, I focus on building intuitive and performant frontend solutions. My contributions include:
 
 - Developing **React.js** web applications with responsive designs using **Tailwind CSS**.
-- Creating **React Native** apps for cross-platform mobile experiences (iOS & Android).
 - Integrating real-time features with backend APIs.
-- Ensuring mobile-first optimization and cross-browser compatibility.
 
 ---
 
@@ -57,7 +55,6 @@ At **SuperChat**, I focus on building intuitive and performant frontend solution
 - **GitHub**: [narra-abhinay-sriram](https://github.com/narra-abhinay-sriram)
 - **LinkedIn**: [Abhinay Sriram Narra](http://www.linkedin.com/in/abhinay122)
 - **Email**: [abhinay.narra@gmail.com](mailto:abhinay.narra@gmail.com)
-- **Portfolio**: [Majestic Acres](https://majestic-acres-frontend.onrender.com)
 
 ---
 
