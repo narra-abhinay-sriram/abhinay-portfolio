@@ -22,9 +22,9 @@ I am a **2024 graduate** with strong skills in **React.js**, **React Native**, a
 - **State Management**: Redux, Context API
 
 ### **Backend Development**
-- **Languages**: JavaScript, TypeScript, C++
+- **Languages**: JavaScript, TypeScript
 - **Frameworks**: Node.js, Express.js
-- **APIs**: RESTful APIs, Postman
+- **APIs**: RESTful APIs
 
 ### **Databases**
 - MongoDB, PostgreSQL, Firebase
