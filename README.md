@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a developer passionate about creating modern
 
 ## 🚀 About Me
 
-I am a **2024 graduate** with strong skills in **React.js**, **React Native**, and **Next.js** for building dynamic web and mobile applications. Alongside frontend work, I have hands-on experience developing backend systems with **Node.js** and databases like **MongoDB** and **PostgreSQL**.
+I am a **2024 graduate** with strong skills in **React.js**, **React Native**, and **Next.js** for building dynamic web and mobile applications. Alongside frontend work, I have hands-on experience developing backend systems with **Node.js**, **Express.js** and databases like **MongoDB** and **PostgreSQL**.
 
 - 💻 I build **interactive user interfaces** with **React.js** and **Next.js** for modern web applications.
 - 📱 I create **cross-platform mobile apps** using **React Native**.
