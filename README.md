@@ -1,6 +1,6 @@
 # Hi, I'm Abhinay Sriram Narra! 👋
 
-Welcome to my GitHub profile. I'm a passionate **Full-Stack Web Developer** focused on building modern, responsive, and scalable web and mobile applications. I specialize in both **frontend** and **backend** development, combining technologies to deliver clean, high-performance solutions.
+Welcome to my GitHub profile! I’m a developer passionate about creating modern, responsive, and scalable web and mobile applications. I specialize in delivering seamless user experiences through clean and efficient code.
 
 ---
 
